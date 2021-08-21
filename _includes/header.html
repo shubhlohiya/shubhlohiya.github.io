@@ -5,7 +5,8 @@
     <div class="container">
       {% if page.title != "about" %}
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
-       {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
+       <!-- {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% else %}{{ site.title }}{% endif %} -->
+       <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}
       </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
@@ -76,11 +77,6 @@
           {% endif %}
           {% endif %}
           {% endfor %}
-          <li class="nav-item {% if site.navbar-cv%}active{% endif %}">
-            <a class="nav-link" href="{{ 'CV.pdf' | prepend: '/assets/pdf/' | relative_url }}">
-              CV
-            </a>
-          </li>
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">

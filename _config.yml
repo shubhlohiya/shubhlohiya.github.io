@@ -12,8 +12,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-navbar-cv: true
-
 # icon: 🔥 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
