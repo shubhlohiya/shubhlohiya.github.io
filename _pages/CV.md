@@ -10,5 +10,4 @@ nav: True
     <span style="color:blue; font-size:1.25em"> Curriculum Vitae </span>
 </a>
 
-<iframe src="{{ 'CV.pdf' | prepend: '/assets/pdf/' | relative_url }}"
- width="100%" height="600px"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://shubhlohiya.github.io/assets/pdf/CV.pdf&embedded=true" width="100%" height="600px"></iframe>
