@@ -10,5 +10,5 @@ nav: True
     <span style="color:blue; font-size:1.25em"> Curriculum Vitae </span>
 </a>
 
-<embed src="{{ 'CV.pdf' | prepend: '/assets/pdf/' | relative_url }}"
-type="application/pdf" width="100%" height="600px">
+<iframe src="{{ 'CV.pdf' | prepend: '/assets/pdf/' | relative_url }}"
+ width="100%" height="600px"></iframe>
