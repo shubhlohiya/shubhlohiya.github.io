@@ -1,0 +1,35 @@
+- title: Web corpus indexing and compression
+  image:
+    src: /assets/img/project/indexing.jpg
+    alt: 
+  date: 
+  description: Developed an inverted index for a corpus of 50,000+ web documents by encoding D-gaps. Compared various index compression techniques like Elias Gamma Coding, Golomb Coding, and Arithmetic Coding.
+  links:
+    code: https://github.com/shubhlohiya/corpus-indexing-compression
+    demo: 
+    blog: 
+    report: 
+
+- title: Profile Recommendation System for Online Dating
+  image:
+    src: https://previews.123rf.com/images/djvstock/djvstock1809/djvstock180909706/109875476-online-dating-design-with-smartphone-with-couples-on-screen-over-white-background-vector-illustratio.jpg
+    alt: 
+  date: 
+  description: Developed an inverted index for a corpus of 50,000+ web documents by encoding D-gaps. Compared various index compression techniques like Elias Gamma Coding, Golomb Coding, and Arithmetic Coding.
+  links:
+    code: https://github.com/shubhlohiya/dating-profile-recommendation
+    demo: 
+    blog: 
+    report: https://nbviewer.org/github/shubhlohiya/dating-profile-recommendation/blob/master/report.pdf
+
+- title: Automatic Raga Recognition in Indian Classical Music 
+  image:
+    src: /assets/img/project/raga.png
+    alt: 
+  date: 
+  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  links:
+    code: https://github.com/shubhlohiya/automatic-raga-recognition
+    demo: 
+    blog: 
+    report: https://nbviewer.org/github/shubhlohiya/automatic-raga-recognition/blob/master/report.pdf

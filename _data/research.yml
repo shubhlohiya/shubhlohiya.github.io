@@ -1,0 +1,38 @@
+- title: Multilingual Knowledge Graph Completion with Joint Relation and Entity Alignment (AlignKGC)
+  guide: <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>, <a href="https://www.cse.iitb.ac.in/">Department of Computer Science</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
+  image:
+    src: /assets/img/research/alignkgc.png
+    alt: 
+  date: Ongoing
+  description: In the domain of multilingual KGs, Knowledge Graph Completion (KGC) or fact prediction adds valuable information for the Relation Alignment (RA) and Entity Alignment (EA) tasks, and vice versa. The AlignKGC framework aims to jointly learn KGC, EA and RA for efficient knowledge transfer across KGs.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: /assets/pdf/research/btp_report.pdf
+
+- title: Entity Alignment in Multilingual Knowledge Graphs
+  guide: <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>, <a href="https://www.cse.iitb.ac.in/">Department of Computer Science</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
+  image:
+    src: /assets/img/research/ea_bertint.png
+    alt: 
+  date: Jan '21 - Apr '21
+  description: Entity Alignment (EA) plays a vital role in automatically integrating multiple knowledge bases. Has BERT-INT, which gives almost saturation results on DBP15K, solved the Entity Alignment problem? <br> This project demonstrates the inadequacy of BERT-INT for EA in the presence of  low-resource pairs or high entity multiplicity.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: 
+
+- title: Online Reinforcement Learning for Lane Following
+  guide: <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>, <a href="https://www.cse.iitb.ac.in/">Department of Computer Science</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
+  image:
+    src: /assets/img/research/cs748_lanefollowing.jpg
+    alt: 
+  date: Mar '21 - Apr '21
+  description: Lane following is a crucial part of the Autonomous driving problem. Is it possible to learn lane following in an online and efficient fashion using a very low-dimensional discretized state-space?
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: /assets/pdf/research/cs748_lanefollowing.pdf
