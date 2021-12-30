@@ -17,7 +17,7 @@
     src: /assets/img/research/ea_bertint.png
     alt: 
   date: Jan '21 - Apr '21
-  description: Entity Alignment (EA) plays a vital role in automatically integrating multiple knowledge bases. Has BERT-INT, which gives almost saturation results on DBP15K, solved the Entity Alignment problem? <br> This project demonstrates the inadequacy of BERT-INT for EA in the presence of  low-resource pairs or high entity multiplicity.
+  description: Entity Alignment (EA) plays a vital role in automatically integrating multiple knowledge bases. Has BERT-INT, which gives almost saturation results on DBP15K, solved the Entity Alignment problem? <br> This work demonstrates the inadequacy of BERT-INT for EA in the presence of  low-resource pairs or high entity multiplicity.
   links:
     code: 
     demo: 
