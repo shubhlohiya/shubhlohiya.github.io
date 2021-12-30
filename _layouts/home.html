@@ -18,7 +18,7 @@ layout: default
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
       {% if page.profile.image %}
-        <img style="margin-{{page.profile.align}}: -1em;" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+        <img style="margin-{{page.profile.align}}: -1em; margin-bottom: 0.1em" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
       {% endif %}
       {% if page.profile.address %}
         <div class="address">
@@ -32,11 +32,7 @@ layout: default
       {{ content }}
     </div>
 
-    <br> <br>
-
-    {% if page.news %}
-      {% include news.html %}
-    {% endif %}
+    <br>
 
     {% if page.selected_papers %}
       {% include selected_papers.html %}
