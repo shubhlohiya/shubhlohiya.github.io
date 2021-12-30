@@ -81,3 +81,15 @@
     demo: 
     blog: 
     report: https://nbviewer.org/github/shubhlohiya/playing-atari-with-deep-RL/blob/master/report.pdf
+
+- title: Star Shooter! (Video Game)
+  image:
+    src: /assets/img/project/shooter.gif
+    alt: 
+  date: 
+  description: A Star Wars themed shooting game developed using PyGame to render graphics, animation, and sound.
+  links:
+    code: https://github.com/shubhlohiya/star_shooter_game
+    demo: 
+    blog: 
+    report:
