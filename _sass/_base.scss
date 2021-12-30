@@ -194,13 +194,24 @@ blockquote {
 
 // News
 
-.news table td {
-  font-size: 1rem;
+.news {
+  height: 15vh;
+  overflow-y: auto;
+}
+
+// .news td, th {
+//   border: none!important;
+// }
+
+.news td {
+  font-size: 0.9rem;
   color: var(--global-text-color);
 }
 
-.news table th {
+.news th {
+  font-size: 0.8rem;
   color: var(--global-text-color);
+  column-width: 120px;
 }
 
 // Social (bottom)

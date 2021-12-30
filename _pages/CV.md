@@ -3,6 +3,7 @@ layout: page
 title: CV
 permalink: /CV/
 nav: True
+navpos: 2
 ---
 
 <a href="{{ 'CV.pdf' | relative_url }}">
