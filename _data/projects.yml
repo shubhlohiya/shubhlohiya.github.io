@@ -1,3 +1,39 @@
+- title: Automatic Raga Recognition in Indian Classical Music 
+  image:
+    src: /assets/img/project/raga.png
+    alt: 
+  date: 
+  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  links:
+    code: https://github.com/shubhlohiya/automatic-raga-recognition
+    demo: 
+    blog: 
+    report: https://nbviewer.org/github/shubhlohiya/automatic-raga-recognition/blob/master/report.pdf
+
+- title: Groot - The Urban Vertical Farming Unit
+  image:
+    src: /assets/img/project/groot.png
+    alt: 
+  date: 
+  description: Designed a smart Modular Vertical Farming unit for climate-independent agriculture in compact spaces. Also designed a Farm-as-a-Service platform in the form of an android application. Conducted detailed mechanical and business analyses.
+  links:
+    code: 
+    demo: https://drive.google.com/file/d/1J_fJA6Jh13AyEceG-9TP1KfXVSOk6Q4o/view?usp=sharing
+    blog: 
+    report: /assets/pdf/project/vertical-farming.pdf
+
+- title: Profile Recommendation System for Online Dating
+  image:
+    src: https://previews.123rf.com/images/djvstock/djvstock1809/djvstock180909706/109875476-online-dating-design-with-smartphone-with-couples-on-screen-over-white-background-vector-illustratio.jpg
+    alt: 
+  date: 
+  description: A machine learning algorithm to rank profile-pairs by generating compatibility vectors for them. Uses proxy-labeling to generate supervision signals for model training.
+  links:
+    code: https://github.com/shubhlohiya/dating-profile-recommendation
+    demo: 
+    blog: 
+    report: https://nbviewer.org/github/shubhlohiya/dating-profile-recommendation/blob/master/report.pdf
+
 - title: Web corpus indexing and compression
   image:
     src: /assets/img/project/indexing.jpg
@@ -10,26 +46,38 @@
     blog: 
     report: 
 
-- title: Profile Recommendation System for Online Dating
+- title: Image Quilting for Texture Synthesis and Transfer
   image:
-    src: https://previews.123rf.com/images/djvstock/djvstock1809/djvstock180909706/109875476-online-dating-design-with-smartphone-with-couples-on-screen-over-white-background-vector-illustratio.jpg
+    src: /assets/img/project/texture-transfer.jpg
     alt: 
   date: 
-  description: Developed an inverted index for a corpus of 50,000+ web documents by encoding D-gaps. Compared various index compression techniques like Elias Gamma Coding, Golomb Coding, and Arithmetic Coding.
+  description: Implementation of a patch-based algorithm to synthesize texture from a given sample. This quilting algorithm is also extended to transfer a given texture to any target image.
   links:
-    code: https://github.com/shubhlohiya/dating-profile-recommendation
+    code: https://github.com/shubhlohiya/image-quilting-texture-synthesis
     demo: 
     blog: 
-    report: https://nbviewer.org/github/shubhlohiya/dating-profile-recommendation/blob/master/report.pdf
+    report: https://nbviewer.org/github/shubhlohiya/image-quilting-texture-synthesis/blob/master/report.pdf
 
-- title: Automatic Raga Recognition in Indian Classical Music 
+- title: Shortest Path in a Maze
   image:
-    src: /assets/img/project/raga.png
+    src: /assets/img/project/maze.png
     alt: 
   date: 
-  description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
+  description: Shortest path algorithm for maze solving that models a 2D maze as a Markov Decision Process (MDP) and generates optimal policy using value iteration.
   links:
-    code: https://github.com/shubhlohiya/automatic-raga-recognition
+    code: https://github.com/shubhlohiya/CS747-FILA-reinforcement-learning/tree/master/cs747-pa2
     demo: 
     blog: 
-    report: https://nbviewer.org/github/shubhlohiya/automatic-raga-recognition/blob/master/report.pdf
+    report: 
+
+- title: Mastering Atari Games using Deep Reinforcement Learning
+  image:
+    src: /assets/img/project/atari.gif
+    alt: 
+  date: 
+  description: Deep Reinforcement Learning agent capable of surpassing human performance on classic Atari games like Pong, Breakout and Boxing using high-level sensory information in the form of game screen pixels.
+  links:
+    code: https://github.com/shubhlohiya/playing-atari-with-deep-RL
+    demo: 
+    blog: 
+    report: https://nbviewer.org/github/shubhlohiya/playing-atari-with-deep-RL/blob/master/report.pdf
