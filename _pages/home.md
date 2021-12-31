@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I'm a senior undergraduate at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/) majoring in [Mechanical Engineering](https://www.me.iitb.ac.in/) and pursuing dual minor degrees in the [Department of Computer Science](https://www.cse.iitb.ac.in/) and the [Centre of Machine Intelligence and Data Science](https://www.minds.iitb.ac.in/).<br>
+I'm a senior undergraduate at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) majoring in [Mechanical Engineering](https://www.me.iitb.ac.in/) and pursuing dual minor degrees in the [Department of Computer Science](https://www.cse.iitb.ac.in/) and the [Centre of Machine Intelligence and Data Science](https://www.minds.iitb.ac.in/).<br>
 
 During my undergraduate studies, I was fortunate to work under the guidance of wonderful mentors. I am working with [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) and [Prof. Abir De](https://www.cse.iitb.ac.in/~abir/) on my Undergraduate Thesis and I have worked with [Prof. Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) on another research project dealing with entity alignment in multilingual knowledge graphs.<br>
 
@@ -37,8 +37,48 @@ I am broadly interested in language technologies for bridging the interaction ga
 <br><br>
 
 <h4>Experience</h4>
-You can checkout my <a href="{{ 'projects' | relative_url }}">research and other key projects</a>, and my <a href="{{ 'work' | relative_url }}">professional work experience</a>. 
+Check out my <a href="{{ 'projects' | relative_url }}">research and other key projects</a>, and my <a href="{{ 'work' | relative_url }}">professional work experience</a>. 
 <br><br>
 
 
-<!-- <h4>Teaching Responsibilities and Service</h4> -->
+<h4>Teaching Responsibilities and Service</h4>
+<br>
+<div class="work">
+  
+  <div class="work-item">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/teaching.jpg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Teaching Assistant | IIT Bombay</strong> <br/>
+      <span style="font-size: 0.9rem">
+       » IE 643 - Deep Learning, Fall 2021 <br>
+       » ME 119 - Engineering Graphics and Drawing, Fall 202 <br>
+       » MA 106 - Linear Algebra, Spring 2021 <br>
+       » MA 108 - Differential Equations, Spring 2021 <br>
+       » PH 107 - Quantum Physics and applications, Fall 2020 <br>
+       </span>
+    </p>
+  </div>
+
+  <div class="work-item vertical-center-text">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/smp.jpg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Department Academic Mentor, Mechanical Engineering, from Fall 2021</strong> <br/>
+      <strong>Institute Student Mentor, from Fall 2021</strong> <br/>
+    </p>
+  </div>
+
+  <div class="work-item vertical-center-text">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/erc.jpeg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Manager, Electronics and Robotics Club, IIT Bombay, 2020-21</strong> <br/>
+    </p>
+  </div>
+
+
+</div>

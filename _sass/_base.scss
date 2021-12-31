@@ -12,6 +12,12 @@ h6 {
   font-size: 12px;
 }
 
+.vertical-center-text {
+  display: flex;
+  // justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
