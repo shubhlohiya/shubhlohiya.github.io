@@ -2,7 +2,7 @@
   image:
     src: /assets/img/project/raga.png
     alt: 
-  date: 
+  date: Fall '20
   description: Leveraged tonic normalized pitch-tracked frequencies of music samples for raga classification using LSTMs with attention.
   links:
     code: https://github.com/shubhlohiya/automatic-raga-recognition
@@ -14,7 +14,7 @@
   image:
     src: /assets/img/project/groot.png
     alt: 
-  date: 
+  date: Fall '21
   description: Designed a smart Modular Vertical Farming unit for climate-independent agriculture in compact spaces. Also designed a Farm-as-a-Service platform in the form of an android application. Conducted detailed mechanical and business analyses.
   links:
     code: 
@@ -26,7 +26,7 @@
   image:
     src: https://previews.123rf.com/images/djvstock/djvstock1809/djvstock180909706/109875476-online-dating-design-with-smartphone-with-couples-on-screen-over-white-background-vector-illustratio.jpg
     alt: 
-  date: 
+  date: Fall '21
   description: A machine learning algorithm to rank profile-pairs by generating compatibility vectors for them. Uses proxy-labeling to generate supervision signals for model training.
   links:
     code: https://github.com/shubhlohiya/dating-profile-recommendation
@@ -38,7 +38,7 @@
   image:
     src: /assets/img/project/indexing.jpg
     alt: 
-  date: 
+  date: Fall '21
   description: Developed an inverted index for a corpus of 50,000+ web documents by encoding D-gaps. Compared various index compression techniques like Elias Gamma Coding, Golomb Coding, and Arithmetic Coding.
   links:
     code: https://github.com/shubhlohiya/corpus-indexing-compression
@@ -50,7 +50,7 @@
   image:
     src: /assets/img/project/texture-transfer.jpg
     alt: 
-  date: 
+  date: Fall '20
   description: Implementation of a patch-based algorithm to synthesize texture from a given sample. This quilting algorithm is also extended to transfer a given texture to any target image.
   links:
     code: https://github.com/shubhlohiya/image-quilting-texture-synthesis
@@ -60,9 +60,9 @@
 
 - title: Shortest Path in a Maze
   image:
-    src: /assets/img/project/maze.png
+    src: /assets/img/project/maze.jpg
     alt: 
-  date: 
+  date: Fall '20
   description: Shortest path algorithm for maze solving that models a 2D maze as a Markov Decision Process (MDP) and generates optimal policy using value iteration.
   links:
     code: https://github.com/shubhlohiya/CS747-FILA-reinforcement-learning/tree/master/cs747-pa2
@@ -74,7 +74,7 @@
   image:
     src: /assets/img/project/atari.gif
     alt: 
-  date: 
+  date: Spring '21
   description: Deep Reinforcement Learning agent capable of surpassing human performance on classic Atari games like Pong, Breakout and Boxing using high-level sensory information in the form of game screen pixels.
   links:
     code: https://github.com/shubhlohiya/playing-atari-with-deep-RL
@@ -86,7 +86,7 @@
   image:
     src: /assets/img/project/shooter.gif
     alt: 
-  date: 
+  date: Summer '20
   description: A Star Wars themed shooting game developed using PyGame to render graphics, animation, and sound.
   links:
     code: https://github.com/shubhlohiya/star_shooter_game
