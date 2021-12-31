@@ -11,7 +11,7 @@ navpos: 3
 <br>
 <div class="work">
   
-  <div class="work-item">
+  <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
       <img src="/assets/img/work/abinbev.png" class="work-bubble" />
       <h6>May '21 - Jul '21</h6>
@@ -25,7 +25,7 @@ navpos: 3
     <br>
   </div>
 
-  <div class="work-item">
+  <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
       <img src="/assets/img/work/unacademy.jpg" class="work-bubble" />
       <h6>Dec '20</h6>
@@ -37,9 +37,9 @@ navpos: 3
     <br>
   </div>
 
-  <div class="work-item">
+  <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
-      <img src="/assets/img/work/avrio.svg" class="work-bubble" />
+      <img src="/assets/img/work/avrio.png" class="work-bubble" />
       <h6>May '20 - Sep '20</h6>
     </div>
     <p class="work-text">
