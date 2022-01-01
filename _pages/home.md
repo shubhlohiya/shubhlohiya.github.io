@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I'm a senior undergraduate at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) majoring in [Mechanical Engineering](https://www.me.iitb.ac.in/) and pursuing dual minor degrees in the [Department of Computer Science](https://www.cse.iitb.ac.in/) and the [Centre of Machine Intelligence and Data Science](https://www.minds.iitb.ac.in/).<br>
+I am a senior undergraduate at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) majoring in [Mechanical Engineering](https://www.me.iitb.ac.in/) and pursuing dual minor degrees in the [Department of Computer Science](https://www.cse.iitb.ac.in/) and the [Centre of Machine Intelligence and Data Science](https://www.minds.iitb.ac.in/).<br>
 
 During my undergraduate studies, I was fortunate to work under the guidance of wonderful mentors. I am working with [Prof. Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) and [Prof. Abir De](https://www.cse.iitb.ac.in/~abir/) on my Undergraduate Thesis and I have worked with [Prof. Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) on another research project dealing with entity alignment in multilingual knowledge graphs.<br>
 

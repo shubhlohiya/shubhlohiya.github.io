@@ -8,7 +8,8 @@ middle_name:
 last_name: Lohiya
 email: shubhlohiya@cse.iitb.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal landing page.
+  Hello There! I am Shubham Lohiya and I am a senior undergraduate at the Indian Institute of Technology Bombay (IITB).
+  I intend to use this website to give the world a peek into my mind and to share updates about my work.
 footer_text: >
   Powered by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -40,7 +41,7 @@ max_width: 800px
 # Open Graph
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
