@@ -33,7 +33,7 @@ I intend to use this website to give the world a peek into my mind and to share 
 <br>
 
 <h4>Research Interests</h4>
-I am broadly interested in language technologies for bridging the interaction gap between human and computers and applications of AI in Healthcare. More specifically, my research interests include [Knowledge Graphs](https://en.wikipedia.org/wiki/Knowledge_graph), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), Graph Learning, [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning).
+I am broadly interested in language technologies for bridging the interaction gap between humans and computers and applications of AI in Healthcare. More specifically, my research interests include [Knowledge Graphs](https://en.wikipedia.org/wiki/Knowledge_graph), [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), Graph Learning, and [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning).
 <br><br>
 
 <h4>Experience</h4>
