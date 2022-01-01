@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <th>August 2021</th>
-    <td>Awarded Insitute Academic Prize for academic excellence in 3rd year of undergraduate studies</td>
+    <td>Awarded Institute Academic Prize for academic excellence in 3rd year of undergraduate studies</td>
   </tr>
   <tr>
     <th>July 2021</th>
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <th>August 2020</th>
-    <td>Awarded Insitute Academic Prize for academic excellence in 2nd year of undergraduate studies</td>
+    <td>Awarded Institute Academic Prize for academic excellence in 2nd year of undergraduate studies</td>
   </tr>
   <tr>
     <th>May 2020</th>
