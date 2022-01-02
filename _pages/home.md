@@ -53,7 +53,7 @@ Check out my <a href="{{ 'projects' | relative_url }}">research and other key pr
       <strong>Teaching Assistant | IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
        » IE 643 - Deep Learning, Fall 2021 <br>
-       » ME 119 - Engineering Graphics and Drawing, Fall 202 <br>
+       » ME 119 - Engineering Graphics and Drawing, Fall 2021 <br>
        » MA 106 - Linear Algebra, Spring 2021 <br>
        » MA 108 - Differential Equations, Spring 2021 <br>
        » PH 107 - Quantum Physics and applications, Fall 2020 <br>
