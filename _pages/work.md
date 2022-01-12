@@ -20,7 +20,7 @@ navpos: 3
       <strong>Data Scientist</strong> | <i>Anheuser-Busch InBev</i> <br/>
       Interned with the Global Operations Analytics team. Worked on a machine learning framework
        to forecast accounts receivable for the Mexico Region, delivered over $40 million in working capital benefits.
-       Offered a full-time postition.
+       Offered a full-time position.
     </p>
     <br>
   </div>
