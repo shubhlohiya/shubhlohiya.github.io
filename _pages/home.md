@@ -52,6 +52,7 @@ Check out my <a href="{{ 'projects' | relative_url }}">research and other key pr
     <p class="work-text">
       <strong>Teaching Assistant | IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
+       » CS 419 - Introduction to Machine Learning, Spring 2022 <br>
        » IE 643 - Deep Learning, Fall 2021 <br>
        » ME 119 - Engineering Graphics and Drawing, Fall 2021 <br>
        » MA 106 - Linear Algebra, Spring 2021 <br>
