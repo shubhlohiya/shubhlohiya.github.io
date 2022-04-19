@@ -3,6 +3,14 @@
 
 <table>
   <tr>
+    <th>April 2022</th>
+    <td>I'll be joining the <a href="https://www.cc.gatech.edu/degree-programs/master-science-computer-science">MS CS program</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology in Fall 2022!</a></td>
+  </tr>
+  <tr>
+    <th>March 2022</th>
+    <td>Received the <a href="http://engg.nsfoundation.co.in/Home/About">NSF UG Engineering Scholarship</a> for demonstrating scholastic excellence</td>
+  </tr>
+  <tr>
     <th>November 2021</th>
     <td>Awarded the prestigious <a href="https://www.opjems.com/">OPJEMS Scholarship</a> for displaying academic and leadership excellence</td>
   </tr>
