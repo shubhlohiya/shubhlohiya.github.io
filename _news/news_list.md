@@ -3,6 +3,10 @@
 
 <table>
   <tr>
+    <th>May 2022</th>
+    <td>Awarded the <a href="https://pg.nsfoundation.co.in/">NSF PG Scholarship</a> for pursuing graduate studies</td>
+  </tr>
+  <tr>
     <th>April 2022</th>
     <td>I'll be joining the <a href="https://www.cc.gatech.edu/degree-programs/master-science-computer-science">MS CS program</a> at the <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> in Fall 2022!</td>
   </tr>

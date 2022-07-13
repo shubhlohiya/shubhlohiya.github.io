@@ -6,9 +6,9 @@ title: Shubham Lohiya # the website title (if blank, full name will be used inst
 first_name: Shubham
 middle_name:
 last_name: Lohiya
-email: shubhlohiya@cse.iitb.ac.in
+email: shubhlohiya@gatech.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hello There! I am Shubham Lohiya and I am a senior undergraduate at the Indian Institute of Technology Bombay (IITB).
+  Hello There! I am Shubham Lohiya and I am a graduate student at Georgia Tech.
   I intend to use this website to give the world a peek into my mind and to share updates about my work.
 footer_text: >
   Powered by the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
