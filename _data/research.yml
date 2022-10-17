@@ -1,3 +1,16 @@
+- title: Biomedical Information Extraction
+  guide: <a href="https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/">Prof. Cassie Mitchell</a>, <a href="https://sites.gatech.edu/cassie-mitchell-lab/">Pathology Dynamics Lab</a>, <a href="https://www.gatech.edu/">Georgia Tech </a>
+  image:
+    src: /assets/img/research/bioEL.png
+    alt: 
+  date: Ongoing
+  description: Conducting a comprehensive survey of Biomedical Enity Linking (BioEL) models and creating a benchmark of uniformly formatted datasets.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: 
+
 - title: Multilingual Knowledge Graph Completion with Joint Relation and Entity Alignment (AlignKGC)
   guide: <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>, <a href="https://www.cse.iitb.ac.in/">Department of Computer Science</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
   image:

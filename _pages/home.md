@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 <!-- <br> -->
 <span style="font-weight:500; font-size: 25px" > Hello there!</span>
 
-I am an incoming student at the [Georgia Institute of Technology](https://www.gatech.edu/) where I will be pursuing the Masters of Science in Computer Science degree with a Machine Learning specialization.
+I am a graduate student at the [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) where I am pursuing the Masters of Science in Computer Science degree with a Machine Learning specialization. I am also a part of the [Pathology Dynamics Lab](https://sites.gatech.edu/cassie-mitchell-lab/) at Georgia Tech where I am working on Biomedical Information Extraction using NLP techniques under the guidance of [Prof. Cassie Mitchell](https://sites.gatech.edu/cassie-mitchell-lab/people/pi-profile/).<br>
 
 I previously completed my undergraduate studies at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) where I majored in [Mechanical Engineering](https://www.me.iitb.ac.in/) and completed dual minor degrees in the [Department of Computer Science](https://www.cse.iitb.ac.in/) and the [Centre of Machine Intelligence and Data Science](https://www.minds.iitb.ac.in/).<br>
 
@@ -46,6 +46,18 @@ Check out my <a href="{{ 'projects' | relative_url }}">research and other key pr
 <h4>Teaching Responsibilities and Service</h4>
 <br>
 <div class="work">
+
+  <div class="work-item">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/teaching.jpg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Graduate Teaching Assistant | Georgia Tech</strong> <br/>
+      <span style="font-size: 0.9rem">
+       CS 6601 - Artificial Intelligence, Fall 2022 <br>
+       </span>
+    </p>
+  </div>
   
   <div class="work-item">
     <div class="work-bubble-with-date">

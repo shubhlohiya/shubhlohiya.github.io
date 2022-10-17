@@ -3,6 +3,14 @@
 
 <table>
   <tr>
+    <th>Oct 2022</th>
+    <td>My first paper (AlignKGC) has been accepted at EMNLP 2022!</td>
+  </tr>
+  <tr>
+    <th>Aug 2022</th>
+    <td>Awarded the Institute Silver Medal at Convocation Ceremony for securing Department Rank 1</td>
+  </tr>
+  <tr>
     <th>May 2022</th>
     <td>Awarded the <a href="https://pg.nsfoundation.co.in/">NSF PG Scholarship</a> for pursuing graduate studies</td>
   </tr>
