@@ -2,6 +2,17 @@
 ---
 
 <table>
+
+  <tr>
+    <th>May 2023</th>
+    <td>I'll be interning as a Machine Learning Engineer at Adobe this summer!</td>
+  </tr>
+
+  <tr>
+    <th>April 2023</th>
+    <td>Our resource paper, BioSIFT, has been accepted at SIGIR 2023!</td>
+  </tr>
+
   <tr>
     <th>Oct 2022</th>
     <td>My first paper (AlignKGC) has been accepted at EMNLP 2022!</td>
