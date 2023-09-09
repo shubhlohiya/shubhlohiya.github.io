@@ -4,6 +4,11 @@
 <table>
 
   <tr>
+    <th>August 2023</th>
+    <td>I'll be interning as an Applied Scientist at Amazon this fall!</td>
+  </tr>
+  
+  <tr>
     <th>May 2023</th>
     <td>I'll be interning as a Machine Learning Engineer at Adobe this summer!</td>
   </tr>

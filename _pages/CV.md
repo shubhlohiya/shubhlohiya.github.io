@@ -15,4 +15,4 @@ navpos: 1
     <span style="color:blue; font-size:1.25em"> Resume </span>
 </a>
 
-<iframe src="{{ 'CV.pdf' | relative_url }}" width="100%" height="600px"></iframe>
+<iframe src="{{ 'Resume.pdf' | relative_url }}" width="100%" height="600px"></iframe>
