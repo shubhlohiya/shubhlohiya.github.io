@@ -13,6 +13,30 @@ navpos: 3
   
   <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
+      <img src="/assets/img/work/amazon.png" class="work-bubble" />
+      <h6>Aug '23 - Present</h6>
+    </div>
+    <p class="work-text">
+      <strong>Applied Scientist</strong> | <i>Amazon</i> <br/>
+      Building scalable Mulimodal systems for Automated Item Mapping for Amazon’s Product Catalog.
+    </p>
+    <br>
+  </div>
+
+  <div class="work-item vertical-center-text">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/work/adobe.png" class="work-bubble" />
+      <h6>May '23 - Aug '23</h6>
+    </div>
+    <p class="work-text">
+      <strong>Machine Learning Engineer</strong> | <i>Adobe</i> <br/>
+      Developed a Generative AI system for highly scalable automated generation of KPI-optimized personalized marketing content.
+    </p>
+    <br>
+  </div>
+  
+  <div class="work-item vertical-center-text">
+    <div class="work-bubble-with-date">
       <img src="/assets/img/work/abinbev.png" class="work-bubble" />
       <h6>May '21 - Jul '21</h6>
     </div>

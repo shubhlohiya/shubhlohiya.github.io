@@ -29,7 +29,9 @@ layout: default
       </div>
       <p class="work-text">
         <strong>{{ item.title }}</strong> <br/>
-        Guide: {{item.guide}} <br/>
+        {% if item.guide %}
+          Guide: {{item.guide}} <br/>
+        {% endif %}
         {{ item.description | markdownify  | remove: '<p>' | remove: '</p>' | strip }}
         <br/>
         <span class="links">
@@ -44,6 +46,9 @@ layout: default
           {% endif %}
           {% if item.links.report %}
           <a class="btn btn-sm z-depth-0" href={{ item.links.report }}>Report</a>
+          {% endif %}
+          {% if item.links.paper %}
+          <a class="btn btn-sm z-depth-0" href={{ item.links.paper }}>Paper</a>
           {% endif %}
         </span>
       </p>
