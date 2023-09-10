@@ -1,7 +1,7 @@
 - title: "MARBLER: Multi-Agent RL Benchmark and Learning Environment for the Robotarium"
   guide: 
   image:
-    src: /assets/img/research/bioEL.png
+    src: /assets/img/research/marbler.png
     alt: 
   date: Jan '23 - Jul '23
   description: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms.
