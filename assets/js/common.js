@@ -51,15 +51,3 @@ $(document).ready(function () {
     }
   });
 });
-
-document.getElementById('cvButton').addEventListener('click', function() {
-  document.getElementById('cvIframe').src = "../CV.pdf";
-  this.classList.add('selected');
-  document.getElementById('resumeButton').classList.remove('selected');
-});
-
-document.getElementById('resumeButton').addEventListener('click', function() {
-  document.getElementById('cvIframe').src = "../Resume.pdf";
-  this.classList.add('selected');
-  document.getElementById('cvButton').classList.remove('selected');
-});
