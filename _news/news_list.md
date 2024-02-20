@@ -4,6 +4,16 @@
 <table>
 
   <tr>
+    <th>Dec 2023</th>
+    <td>Our paper <a href="https://arxiv.org/pdf/2307.03891">MARBLER</a> won the Best Paper Award at MRS 2023</td>
+  </tr>
+
+  <tr>
+    <th>Oct 2023</th>
+    <td>Our <a href="https://aclanthology.org/2023.emnlp-main.893.pdf">survey paper on BioEL models</a> has been accepted at EMNLP 2023!</td>
+  </tr>
+  
+  <tr>
     <th>August 2023</th>
     <td>I'll be interning as an Applied Scientist at Amazon this fall!</td>
   </tr>

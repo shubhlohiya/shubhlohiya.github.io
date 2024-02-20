@@ -38,7 +38,7 @@
     demo: 
     blog: 
     report: 
-    paper: 
+    paper: https://aclanthology.org/2023.emnlp-main.893.pdf
 
 - title: Joint Completion and Alignment of Multilingual Knowledge Graphs (AlignKGC)
   guide: <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>, <a href="https://www.cse.iitb.ac.in/">Department of Computer Science</a>, <a href="https://www.iitb.ac.in/">IIT Bombay </a>
