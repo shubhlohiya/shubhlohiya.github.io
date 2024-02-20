@@ -4,10 +4,11 @@ title: Work
 permalink: /work/
 description: 
 nav: True
-navpos: 3
+nav_order: 3
+# social: true # includes social icons at the bottom of the page
 ---
 
-#### Work Experience
+### Work Experience
 <br>
 <div class="work">
   

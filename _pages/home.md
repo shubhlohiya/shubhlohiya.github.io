@@ -2,11 +2,12 @@
 layout: home
 title: Shubham Lohiya
 permalink: /
-description:
+subtitle:
 
 profile:
   align: left
   image: prof_pic.png
+  image_circular: true
   address:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

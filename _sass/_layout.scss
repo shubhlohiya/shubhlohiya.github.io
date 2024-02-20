@@ -2,21 +2,30 @@
  * Content
  ******************************************************************************/
 
- body {
-   padding-bottom: 70px;
-   color: var(--global-text-color);
-   background-color: var(--global-bg-color);
- }
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
 
- body.fixed-top-nav {
-   // Add some padding for the nav-bar.
-   padding-top: 56px;
- }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    scroll-margin-top: 66px;
+  }
+}
 
- body.sticky-bottom-footer {
-   // Remove padding below footer.
-   padding-bottom: 0;
- }
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 56px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
 
 .container {
   max-width: $max-content-width;
@@ -31,17 +40,17 @@
 
 // TODO: redefine content layout.
 
-
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
 // TODO: redefine publications layout.
 
-
 /*****************************************************************************
 * Projects
 *****************************************************************************/
+
+// TODO: redefine projects layout.
 
 
 .work-item {
@@ -67,6 +76,11 @@
   text-align: center;
   // height: 100px;
   // object-fit: cover;
+
+  h6 {
+    padding-top: 0.2em;
+    font-size: 0.8em;
+  }
 }
 
 .work-text {
